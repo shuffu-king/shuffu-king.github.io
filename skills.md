@@ -1,8 +1,8 @@
 ---
-title: Projects
-layout: landing
+title: Skills & Achievements
+layout: skills
 description: ''
-image: assets/images/projback.jpg
+image: assets/images/achievement.webp
 nav-menu: true
 ---
 
@@ -18,37 +18,37 @@ nav-menu: true
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
-
+                                            
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/shuffu-king/SimpleInventoryApp" class="image">
-			<img src="{% link assets/images/app.png %}" alt="" data-position="center center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/achievement.webp %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Simple Inventory App</h3>
+					<h3>Living Our Values Award - Beep Inc</h3>
+                    <h4>2024</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="https://github.com/shuffu-king/SimpleInventoryApp" class="button">Learn more</a></li>
-				</ul>
+				<!-- <ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul> -->
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://docs.google.com/document/d/1_E_KVvZHRbgIJxJY47Cw_aI608LlnlK3FJ1DsEn7IMk/edit?usp=sharing" class="image">
-			<img src="{% link assets/images/hbox.jpg %}" alt="" data-position="top center" />
+		<a href="https://www.coursera.org/account/accomplishments/specialization/AJCCR29MNC4G" class="image">
+			<img src="{% link assets/images/swift.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>HotBox - Senior Design Project</h3>
+					<h3>Meta iOS Developer Specialization Certificate</h3>
+                    <h4>June 2024</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://docs.google.com/document/d/1_E_KVvZHRbgIJxJY47Cw_aI608LlnlK3FJ1DsEn7IMk/edit?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="https://www.coursera.org/account/accomplishments/specialization/AJCCR29MNC4G" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,11 +60,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>HotBox - Senior Design Project</h3>
+					<h3>Sed nunc ligula</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://docs.google.com/document/d/1_E_KVvZHRbgIJxJY47Cw_aI608LlnlK3FJ1DsEn7IMk/edit?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

@@ -1,17 +1,17 @@
 # site settings
-title: Haafiz Ayo Shafau
+title: Portfolio
 subtitle: 
 email: shafau_ayo@outlook.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Welcome to my Portfolio :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: shuffu-king.github.io
 author: Haafiz Ayo Shafau
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 
+city: Detroit
+state: MI
+zip_code: 
 country: United States of America
-phone: (716) 555-5555
+phone: (561) 225-5892
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

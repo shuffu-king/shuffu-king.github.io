@@ -6,7 +6,7 @@ image: assets/images/about.jpg
 nav-menu: true
 ---
 
-I am a dedicated computer engineer with over two years of experience in maintaining and deploying autonomous vehicles, working with advanced technologies such as camera, lidar, GNSS, GPS, and various sensor systems. My expertise extends to working with Linux and ROS, deploying robots in the field, and integrating software solutions for real-world applications.
+My name is Haafiz Ayo Shafau and I am a dedicated computer engineer with over two years of experience in maintaining and deploying autonomous vehicles, working with advanced technologies such as camera, lidar, GNSS, GPS, and various sensor systems. My expertise extends to working with Linux and ROS, deploying robots in the field, and integrating software solutions for real-world applications.
 
 Specializing in iOS application development, I have a strong command of Swift and SwiftUI, as well as experience working with databases like MongoDB and Firebase. My passion for problem-solving drives me to continuously learn and explore new technologies, as I believe that experience and repetition foster true mastery.
 

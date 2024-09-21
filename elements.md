@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: skills
 title: Experience
 image: assets/images/resume.jpg
-nav-menu: true
+nav-menu: false
+show_tile: false
+
 ---
 
 <!-- Main -->

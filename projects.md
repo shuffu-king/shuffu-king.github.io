@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: landing
+layout: projects
 description: ''
 image: assets/images/projback.jpg
 nav-menu: true
@@ -15,7 +15,7 @@ nav-menu: true
 		<!-- <header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header> -->
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Throughout my career, I’ve worked on a variety of hands-on projects that blend technical expertise with creative problem-solving. These projects demonstrate my ability to lead teams, design hardware, and develop efficient software solutions. From prototyping a smart food storage heater to building a user-friendly inventory management app, I’ve applied skills in both hardware and software development to create impactful solutions.</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Simple Inventory App</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Developed an iOS inventory management app, focusing on efficient user interface design and database integration. Utilized Swift, SwiftUI, and Firebase to create a user-friendly app for tracking and managing inventory. Key skills: iOS development, Swift, SwiftUI, Firebase integration, and UX/UI design.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/shuffu-king/SimpleInventoryApp" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>HotBox - Senior Design Project</h3>
+					<h3>HotBox - Senior Design Capstone Project</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A team-based project aimed at designing a smart and secure food storage heater for restaurant use. As the team leader, I oversaw the design of electronic schematics and the fabrication of the printed circuit board using LTSpice, successfully delivering a functional prototype. Key skills: team leadership, circuit design, PCB fabrication, and hardware prototyping.</p>
 				<ul class="actions">
 					<li><a href="https://docs.google.com/document/d/1_E_KVvZHRbgIJxJY47Cw_aI608LlnlK3FJ1DsEn7IMk/edit?usp=sharing" class="button">Learn more</a></li>
 				</ul>

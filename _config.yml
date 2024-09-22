@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: 
 email: shafau_ayo@outlook.com
 description: Welcome to my Portfolio 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: shuffu-king.github.io
 author: Haafiz Ayo Shafau
 street_address: 
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  GitHub: https://github.com/shuffu-king
   GitLab:
   Google-Plus: 
   Instagram:

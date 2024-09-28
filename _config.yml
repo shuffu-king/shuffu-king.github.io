@@ -3,8 +3,8 @@ title: Portfolio
 subtitle: 
 email: shafau_ayo@outlook.com
 description: Welcome to my Portfolio 
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: shuffu-king.github.io
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: 
 author: Haafiz Ayo Shafau
 street_address: 
 city: Detroit

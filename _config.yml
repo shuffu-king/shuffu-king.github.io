@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: 
 email: shafau_ayo@outlook.com
 description: Welcome to my Portfolio 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: shuffu-king.github.io
 author: Haafiz Ayo Shafau
 street_address: 
@@ -15,7 +15,7 @@ phone: (561) 225-5892
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands

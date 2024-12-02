@@ -21,6 +21,22 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+<section>
+		<a href="https://apps.apple.com/us/app/tpix/id6738821267" class="image">
+			<img src="{% link assets/images/Tpix.webp %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Tpix</h3>
+				</header>
+				<p>A robust lightweight iOS application with an accompanying keyboard extension that allows users to store, manage, and share copied images with changeable expiration lengths.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/shuffu-king/Tpix" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="https://github.com/shuffu-king/SimpleInventoryApp" class="image">
 			<img src="{% link assets/images/app.png %}" alt="" data-position="center center" />
